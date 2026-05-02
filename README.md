@@ -50,7 +50,7 @@ A total of **07 unique bugs** were identified during the testing phase.
 
 ---
 
-**👨‍💻 Tested By:** **Subhendu Bachhar Setu** *Software Quality Assurance Engineer (Intern) at SPARKTRO*
+**👨‍💻 Tested By:** **Subhendu Bachhar Setu** *Software Quality Assurance Engineer*
 
 ---
 
